@@ -1,0 +1,15 @@
+body{
+    color: whitesmoke;
+    background-color: palevioletred;
+}
+
+#camera,#result{
+    width: 400px;
+    height: 400px;
+border: 3px solid black;
+}
+
+h3{
+    width: 300px;
+    font-size: 150px;
+}
